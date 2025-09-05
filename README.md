@@ -9,4 +9,6 @@ UNORDERED LIST
 ORDERED LIST
 1. PFLAB 1
 2. PF LAB 2
-3. PF LAB 3
+3. PF LAB 3 <br/>
+**Bold text** + *Italic text*\
+***This is both BOLD and ITALIC text***
